@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF NORMAL.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN0000" x="0" y="0" width="379" height="343"/>
+	<SubTexture name="BF NOTE DOWN0001" x="379" y="0" width="379" height="343"/>
+	<SubTexture name="BF NOTE DOWN0002" x="758" y="0" width="379" height="343"/>
+	<SubTexture name="BF NOTE DOWN0003" x="1137" y="0" width="379" height="343"/>
+	<SubTexture name="BF NOTE LEFT0000" x="1516" y="0" width="413" height="429"/>
+	<SubTexture name="BF NOTE LEFT0001" x="1929" y="0" width="413" height="429"/>
+	<SubTexture name="BF NOTE LEFT0002" x="2342" y="0" width="413" height="429"/>
+	<SubTexture name="BF NOTE LEFT0003" x="0" y="429" width="413" height="429"/>
+	<SubTexture name="BF NOTE RIGHT0000" x="413" y="429" width="473" height="405"/>
+	<SubTexture name="BF NOTE RIGHT0001" x="886" y="429" width="473" height="405"/>
+	<SubTexture name="BF NOTE RIGHT0002" x="1359" y="429" width="473" height="405"/>
+	<SubTexture name="BF NOTE RIGHT0003" x="1832" y="429" width="473" height="405"/>
+	<SubTexture name="BF NOTE UP0000" x="2305" y="429" width="405" height="476"/>
+	<SubTexture name="BF NOTE UP0001" x="0" y="905" width="405" height="476"/>
+	<SubTexture name="BF NOTE UP0002" x="405" y="905" width="405" height="476"/>
+	<SubTexture name="BF NOTE UP0003" x="810" y="905" width="405" height="476"/>
+	<SubTexture name="BF idle dance0000" x="1215" y="905" width="424" height="413"/>
+	<SubTexture name="BF idle dance0001" x="1639" y="905" width="424" height="413"/>
+	<SubTexture name="BF idle dance0002" x="2063" y="905" width="424" height="413"/>
+	<SubTexture name="BF idle dance0003" x="2487" y="905" width="424" height="413"/>
+	<SubTexture name="BF idle dance0004" x="0" y="1381" width="424" height="413"/>
+	<SubTexture name="BF idle dance0005" x="424" y="1381" width="424" height="413"/>
+	<SubTexture name="BF idle dance0006" x="848" y="1381" width="424" height="413"/>
+</TextureAtlas>
